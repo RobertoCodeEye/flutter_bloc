@@ -10,17 +10,16 @@
     "contributors": [],
     "diagrams": [
       {
-        "id": 0,
-        "title": "Nuevo diagrama STRIDE",
-        "diagramType": "STRIDE",
-        "placeholder": "Descripción de nuevo diagrama STRIDE",
-        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "id": 1,
+        "title": "Nuevo diagrama CIA",
+        "diagramType": "CIA",
+        "placeholder": "Descripción de Nuevo diagrama CIA",
+        "thumbnail": "./public/content/images/thumbnail.cia.jpg",
         "version": "2.4.1",
-        "cells": [],
-        "description": "r6yryr"
+        "cells": []
       }
     ],
-    "diagramTop": 1,
+    "diagramTop": 2,
     "reviewer": "Roberto",
     "threatTop": 0
   }
